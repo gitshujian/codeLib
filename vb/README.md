@@ -1,2 +1,2 @@
-# codeLib
-代码片段库
+# VB-LIB
+VB代码片段库
